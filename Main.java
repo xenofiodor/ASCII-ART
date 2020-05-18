@@ -11,15 +11,11 @@ public class Main {
         Picture picture = null;
 
         do{
-            String path = "/home/xeno/xWs/Java/ascii-art/src/ascii_art/img/";
-            System.out.print("Enter the name of image file: ");
+            System.out.print("Enter the name of image file with its path: ");
             String name = scanner.nextLine();
-            path += name;
-            ImageParser imageParser = new ImageParser(path);
+            ImageParser imageParser = new ImageParser(name);
             picture = imageParser.getPicture();
-
         } while (picture == null);
-
 
         boolean correctDecision;
         do {
