@@ -10,7 +10,7 @@ Clone the repository and run in any IDE.
 Take into account that big images may not fit in your screen.
 In some IDE's animation may not work properly, so it is better to run the animation from console.
 
-## Example
+## Example 
 (Part of) output for this image: 
-<a href="https://imgur.com/NTxVm0m"><img src="https://i.imgur.com/NTxVm0m.jpg" title="source: imgur.com" /></a>
-<a href="https://imgur.com/2luYxsJ"><img src="https://i.imgur.com/2luYxsJ.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/yxG0xWt"><img src="https://i.imgur.com/yxG0xWt.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/8hV0gPk"><img src="https://i.imgur.com/8hV0gPk.png" title="source: imgur.com" /></a>
